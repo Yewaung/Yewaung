@@ -1,10 +1,10 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=yewaung" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ye+W+Aung!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pixelify+Sans&size=50&pause=1000&color=00F726&center=true&vCenter=true&random=true&width=700&height=100&lines=I'm+Ye+Wint+Aung;Wizardry+in+WordPress+Development;Tricks+of+Front-end+Enchantmentend;Gaze+into+the+Mysteries+of+Google;Waltz%2C+bad+nymph%2C+for+quick+jigs+vex;Unleashing+Chat+GPT+Magic;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Canada 🇨🇦</h3>
+<h3 align="center">Web Wizard and Code Juggler Extraordinaire</h3>
 
 <br/>
 
